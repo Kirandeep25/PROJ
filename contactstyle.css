@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f3f3;
+}
+
+/* Navigation Bar styles */
+nav {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    max-width: 2500px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.logo a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-right: 20px;
+}
+
+.nav-links li:last-child {
+    margin-right: 0;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;  
+    font-size: 15 px;
+    transition: color 0.3s; /* Add a smooth color transition on hover */
+}
+
+/* Style the navigation bar links on hover */
+.nav-links li a:hover {
+    color: #f0a500;
+    text-decoration: underline;
+}
+
+/* Reset some default styles (same as in index.html) */
+
+/* Body styles (same as in index.html) */
+
+/* Navigation Bar styles (same as in index.html) */
+
+/* Header styles (same as in products.html) */
+
+/* Apply styles to the content */
+h1 {
+    font-size: 28px;
+    margin: 20px 0;
+    text-align: center;
+    color: #f0a500; /* Change the color to your preferred accent color */
+}
+
+.contact-container {
+    display: flex;
+    justify-content: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.contact-info {
+    background: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.contact-info h2 {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+.contact-info p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 10px 0;
+}
+
+/* Style specific text within the content */
+strong {
+    font-weight: bold;
+    color: #f0a500; /* Change the color to your preferred accent color */
+}
+
+/* Style the contact details */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    font-size: 18px;
+}
+
+/* Footer styles (same as in index.html) */
+
+
+/* Footer styles (same as in index.html) */
+
+
+footer {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+footer p {
+    margin: 10px 0;
+}
+
+footer a {
+    text-decoration: none;
+    color: #c48b1b;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+/* Style the links on hover */
+footer a:hover {
+    text-decoration: underline;
+}
+

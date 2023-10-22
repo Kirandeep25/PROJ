@@ -1,0 +1,24 @@
+basic website for the sawmill. 
+things that can be added imo:
+HOMEPAGE
+a. header: logo, nav bar highlighting:
+1. Products
+2. Services
+3. about
+4. contacts
+
+b. section containing a high quality photo of the ongoing business, a catchphrase and some introductory text highlighting the major idea
+   objectives of the business
+c. section highlighting the products and services offered by the business, alongside the links to the html pages. 
+
+PRODUCTS PAGE 
+door frames, window frames, wardrobes, kitchen cabinets, indoor/outdoor furniture
+SERVICES PAGE 
+basically highlighting the services of cabinet making
+ABOUT US
+Thoda about the aara, dealing, nanu and mamu, pictures
+CONTACTS PAGE 
+IMAGE GALLERY PAGE
+FOOTER
+contact details, email, quick links
+
